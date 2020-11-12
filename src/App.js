@@ -12,7 +12,7 @@ class App extends Component {
 
 ## Bootstrap is utilized
 
-Heres some HTML code, \`<div></div>\`
+Here\'s some HTML code, \`<div></div>\`
 
 \`\`\`
 // this is multi-line code:
